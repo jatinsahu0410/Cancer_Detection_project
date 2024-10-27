@@ -1,2 +1,2 @@
 ## Cancer Detection Project
-Please remainber to each time pull and push the repo
+Please remember to each time pull and push the repo
